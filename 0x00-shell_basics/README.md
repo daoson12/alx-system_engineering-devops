@@ -14,3 +14,5 @@ Display current directory contents.
 .long format
 .with user and group IDs displayed numerically
 .And hidden files (starting with .)
+6. Welcome
+Create a script that creates a directory named My_first_Directory in the /tmp/ directory.
