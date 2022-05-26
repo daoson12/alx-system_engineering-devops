@@ -15,4 +15,6 @@ Display current directory contents.
 .with user and group IDs displayed numerically
 .And hidden files (starting with .)
 6. Welcome
-Create a script that creates a directory named My_first_Directory in the /tmp/ directory.
+Create a script that creates a directory named My first Directory in the /tmp/ directory.
+7. Betty in my first directory
+Move the file betty from /tmp/ to /tmp/myirstdirectory
