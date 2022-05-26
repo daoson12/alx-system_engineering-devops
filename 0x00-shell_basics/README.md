@@ -33,3 +33,5 @@ Write a script that prints the file named iamfile. The file iamafile will be in 
 Create a symbolic link to /bin/ls, named _ls_. the symbolic link shoul be created in the current working directory
 14. copy HTML files
 Create a file that copies all the HTML file from the current working directory to the parent
+15. let's move
+create a script that moves all files beining with an uppercae letter to th directory
