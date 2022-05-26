@@ -25,4 +25,8 @@ Write a script that sets the permissions to the file hello as follows:
 9. John Doe
 Write a script that sets the mode of the file hello to this:
 . the file hello will be in the working directory
-. you are not allowed to use commas for this script
+. you are not allowed to use commas for this script.
+10. Look in the minor
+Write a script that sets the mode of the file hello the same as olleh's mode.
+. The file hello will be in the working directory
+. The file olleh will be in the working directory
