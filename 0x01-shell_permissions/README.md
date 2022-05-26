@@ -13,4 +13,7 @@ Write a ascript that creates an empty file call hello
 Write a script that adds execute permission to the owner of the file hello.
 6. Multiple permissions
 Write a script that adds execute permission to the owner and the group, and read permission to other users ile hello.
-
+7. Everybody!
+Write a script that adds execution permission to the owner, the group owner and ther other users, to the file hello
+. the file hello will be in the working directory
+. You are not allowed to use commas for this project
