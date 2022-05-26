@@ -21,4 +21,8 @@ Write a script that adds execution permission to the owner, the group owner and 
 Write a script that sets the permissions to the file hello as follows:
 . owner:no permission at all
 . Group:no permission at all
-. Other users:all the permissions
+. Other users:all the permissions.
+9. John Doe
+Write a script that sets the mode of the file hello to this:
+. the file hello will be in the working directory
+. you are not allowed to use commas for this script
