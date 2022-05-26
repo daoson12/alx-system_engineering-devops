@@ -11,3 +11,6 @@ Write a script that changes the owner of the file hello to the user betty.
 Write a ascript that creates an empty file call hello
 5. Execute
 Write a script that adds execute permission to the owner of the file hello.
+6. Multiple permissions
+Write a script that adds execute permission to the owner and the group, and read permission to other users ile hello.
+
