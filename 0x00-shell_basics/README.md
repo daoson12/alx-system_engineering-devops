@@ -37,5 +37,7 @@ Create a file that copies all the HTML file from the current working directory t
 create a script that moves all files beining with an uppercae letter to th directory
 16. Clean Emacs
 create a script that delete all files in the current working directory
+17. Tree
+Create a script that create the directory ./welcome
 19.  File type: School
 create a magic file school that can be use with the command file
