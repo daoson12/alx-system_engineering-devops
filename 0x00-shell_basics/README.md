@@ -39,5 +39,7 @@ create a script that moves all files beining with an uppercae letter to th direc
 create a script that delete all files in the current working directory
 17. Tree
 Create a script that create the directory ./welcome
+18. List is a series of commas, not periods
+Write a command that list all the files and directories of the current directory, seperated by commas 
 19.  File type: School
 create a magic file school that can be use with the command file
