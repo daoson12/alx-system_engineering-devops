@@ -31,3 +31,5 @@ Write a script that lists all files (even ones with names beginning with a perio
 Write a script that prints the file named iamfile. The file iamafile will be in the /tmp directory when we will run your script.
 13. We are symbols, and inhabit symbols
 Create a symbolic link to /bin/ls, named _ls_. the symbolic link shoul be created in the current working directory
+14. copy HTML files
+Create a file that copies all the HTML file from the current working directory to the parent
