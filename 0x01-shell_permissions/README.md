@@ -16,4 +16,9 @@ Write a script that adds execute permission to the owner and the group, and read
 7. Everybody!
 Write a script that adds execution permission to the owner, the group owner and ther other users, to the file hello
 . the file hello will be in the working directory
-. You are not allowed to use commas for this project
+. You are not allowed to use commas for this project.
+8. James Bond
+Write a script that sets the permissions to the file hello as follows:
+. owner:no permission at all
+. Group:no permission at all
+. Other users:all the permissions
