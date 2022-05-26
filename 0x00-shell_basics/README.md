@@ -17,4 +17,7 @@ Display current directory contents.
 6. Welcome
 Create a script that creates a directory named My first Directory in the /tmp/ directory.
 7. Betty in my first directory
-Move the file betty from /tmp/ to /tmp/myirstdirectory
+Move the file betty from /tmp/ to /tmp/myirstdirectory.
+8. Bye bye Betty
+Delete the file betty
+. The file betty is in /tmp/my_first_directory
