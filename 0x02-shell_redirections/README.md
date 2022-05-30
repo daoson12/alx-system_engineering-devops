@@ -17,3 +17,6 @@ Display the first 10 lines of /etc/passwd
 Write a shell script that create a file named exactly
 8. Save current state of directory
 Write a script that writes into the file is_cwd_content the result of the command ls -la.
+9. Duplicate last line
+write a script that duplicates the last line of the file iacata
+the file iacta will be in the working directory
