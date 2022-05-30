@@ -20,3 +20,5 @@ Write a script that writes into the file is_cwd_content the result of the comman
 9. Duplicate last line
 write a script that duplicates the last line of the file iacata
 the file iacta will be in the working directory
+10. No more javascript
+Write a script that deletes all the regular files (not the directories) with a .js extention
